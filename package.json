@@ -1,0 +1,7 @@
+{
+  "name": "svelte",
+  "packageManager": "yarn@3.6.1",
+  "dependencies": {
+    "svelte": "^4.2.0"
+  }
+}
